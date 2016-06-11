@@ -125,6 +125,12 @@ nav ul li a:active{
     background: #f2f2f2;
     transition: all .8s;
 }
+
+#home{
+    background: #111a26;
+    height: 130px;
+    margin-top: 0;
+}
 /********************
 MEDIA QUERIES
 *******************/
